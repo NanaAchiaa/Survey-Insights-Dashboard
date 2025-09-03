@@ -1,4 +1,10 @@
 # Survey-Insights-Dashboard
+
+<p align="center">
+  <img src="images/Screenshot 2025-09-03 143249.png" alt="Survey Dashboard Preview" width="800"/>
+</p>  
+
+
 ## About the Project
 Every survey tells a story. Behind the numbers and responses are people with experiences, opinions, and emotions. This project was all about uncovering those voices and turning raw survey data into an interactive dashboard that anyone could explore. My aim was simple: to make insights easy to find, easy to understand, and easy to act on.
 
